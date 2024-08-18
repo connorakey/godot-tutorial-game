@@ -14,5 +14,5 @@ The releases include:
 
 If you are having issues with the files working, feel free to export it yourself (skip to the timestamp 1:14:16 to learn how to export on Windows)
 
-# Thank you,
-# Cakey
+**Thank you,**
+**Cakey**
