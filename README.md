@@ -11,3 +11,8 @@ The releases include:
 **Linux** - A common linux release (has been confirmed to work on Arch Linux)
 
 **MacOS** - A common MacOS release (has not been confirmed to work)
+
+If you are having issues with the files working, feel free to export it yourself (skip to the timestamp 1:14:16 to learn how to export on Windows)
+
+# Thank you,
+# Cakey
